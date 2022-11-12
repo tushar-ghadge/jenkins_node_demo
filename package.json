@@ -1,5 +1,5 @@
 {
-  "name": "node-jenkins-app-example",
+  "name": "node-jenkins-demo",
   "version": "0.0.1",
   "description": "Simple Hello World demo app.",
   "main": "app.js",
