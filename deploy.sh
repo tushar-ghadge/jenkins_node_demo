@@ -1,5 +1,6 @@
 #!/bin/sh
 ssh -i ~/keys/.ssh/id_rsa root@139.59.6.53
+ll
 whoami
 git pull origin master
 npm install --production
